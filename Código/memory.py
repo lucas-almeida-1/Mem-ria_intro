@@ -1,8 +1,8 @@
 # Equipe:
 # Lucas Almeida de Lima
-# Raquel 
-#
-#
+# Raquel Silva Nunes
+# Gabriel Chaves Prates
+# Giovane Santos de Santana
 
 # Importar biblioteca gráfica
 import tkinter as tk
