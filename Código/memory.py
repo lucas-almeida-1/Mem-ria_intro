@@ -6,6 +6,7 @@
 
 # Importar biblioteca gráfica
 import tkinter as tk
+from tkinter import messagebox
 
 # Definir os dígitos do grupo
 digitos = ["2", "2", "3", "2", "1", "5", "3", "8", "4", "L", "u", "c", "a", "s"]
